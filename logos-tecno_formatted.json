@@ -1,312 +1,312 @@
 {
-    "v": "5.7.4",
-    "fr": 30,
-    "ip": 0,
-    "op": 120,
-    "w": 500,
-    "h": 500,
-    "assets": [
-      { "id": "image_0", "w": 512, "h": 512, "u": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/1-Asus.png", "p": "", "e": 0 },
-      { "id": "image_1", "w": 512, "h": 512, "u": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/2-LG.png", "p": "", "e": 0 },
-      { "id": "image_2", "w": 512, "h": 512, "u": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/3-APC.png", "p": "", "e": 0 },
-      { "id": "image_3", "w": 512, "h": 512, "u": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/4-Lenovo.png", "p": "", "e": 0 },
-      { "id": "image_4", "w": 512, "h": 512, "u": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/5-Epson.png", "p": "", "e": 0 },
-      { "id": "image_5", "w": 512, "h": 512, "u": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/6-TP-Link.png", "p": "", "e": 0 },
-      { "id": "image_6", "w": 512, "h": 512, "u": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/7-Adata.png", "p": "", "e": 0 },
-      { "id": "image_7", "w": 512, "h": 512, "u": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/8-Logitech.png", "p": "", "e": 0 },
-      { "id": "image_8", "w": 512, "h": 512, "u": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/9-HP.png", "p": "", "e": 0 },
-      { "id": "image_9", "w": 512, "h": 512, "u": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/10-Dell.png", "p": "", "e": 0 },
-      { "id": "image_10", "w": 512, "h": 512, "u": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/11-Samsung.png", "p": "", "e": 0 },
-      { "id": "image_11", "w": 512, "h": 512, "u": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/12-Microsoft.png", "p": "", "e": 0 },
-      { "id": "image_12", "w": 512, "h": 512, "u": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/13-3nstar.png", "p": "", "e": 0 },
-      { "id": "image_13", "w": 512, "h": 512, "u": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/14-Kingston.png", "p": "", "e": 0 },
-      { "id": "image_14", "w": 512, "h": 512, "u": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/15-CDP.png", "p": "", "e": 0 }
-    ],
-    "layers": [
-      {
-        "ddd": 0,
-        "ind": 1,
-        "ty": 2,
-        "nm": "Imagen 0",
-        "refId": "image_0",
-        "ks": {
-          "o": { "a": 0, "k": 100 },
-          "r": { "a": 0, "k": 0 },
-          "p": { "a": 0, "k": [250, 250, 0] },
-          "a": { "a": 0, "k": [256, 256, 0] },
-          "s": { "a": 0, "k": [100, 100, 100] }
-        },
-        "ao": 0,
-        "ip": 0,
-        "op": 8,
-        "st": 0,
-        "bm": 0
+  "v": "5.7.4",
+  "fr": 30,
+  "ip": 0,
+  "op": 120,
+  "w": 500,
+  "h": 500,
+  "assets": [
+    { "id": "image_0", "w": 512, "h": 512, "u": "", "p": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/1-Asus.png", "e": 0 },
+    { "id": "image_1", "w": 512, "h": 512, "u": "", "p": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/2-LG.png", "e": 0 },
+    { "id": "image_2", "w": 512, "h": 512, "u": "", "p": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/3-APC.png", "e": 0 },
+    { "id": "image_3", "w": 512, "h": 512, "u": "", "p": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/4-Lenovo.png", "e": 0 },
+    { "id": "image_4", "w": 512, "h": 512, "u": "", "p": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/5-Epson.png", "e": 0 },
+    { "id": "image_5", "w": 512, "h": 512, "u": "", "p": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/6-TP-Link.png", "e": 0 },
+    { "id": "image_6", "w": 512, "h": 512, "u": "", "p": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/7-Adata.png", "e": 0 },
+    { "id": "image_7", "w": 512, "h": 512, "u": "", "p": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/8-Logitech.png", "e": 0 },
+    { "id": "image_8", "w": 512, "h": 512, "u": "", "p": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/9-HP.png", "e": 0 },
+    { "id": "image_9", "w": 512, "h": 512, "u": "", "p": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/10-Dell.png", "e": 0 },
+    { "id": "image_10", "w": 512, "h": 512, "u": "", "p": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/11-Samsung.png", "e": 0 },
+    { "id": "image_11", "w": 512, "h": 512, "u": "", "p": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/12-Microsoft.png", "e": 0 },
+    { "id": "image_12", "w": 512, "h": 512, "u": "", "p": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/13-3nstar.png", "e": 0 },
+    { "id": "image_13", "w": 512, "h": 512, "u": "", "p": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/14-Kingston.png", "e": 0 },
+    { "id": "image_14", "w": 512, "h": 512, "u": "", "p": "https://panel.sumaconsultoria.mx/tecnoplaza/logos-marcas/15-CDP.png", "e": 0 }
+  ],
+  "layers": [
+    {
+      "ddd": 0,
+      "ind": 1,
+      "ty": 2,
+      "nm": "Imagen 0",
+      "refId": "image_0",
+      "ks": {
+        "o": { "a": 0, "k": 100 },
+        "r": { "a": 0, "k": 0 },
+        "p": { "a": 0, "k": [250, 250, 0] },
+        "a": { "a": 0, "k": [256, 256, 0] },
+        "s": { "a": 0, "k": [100, 100, 100] }
       },
-      {
-        "ddd": 0,
-        "ind": 2,
-        "ty": 2,
-        "nm": "Imagen 1",
-        "refId": "image_1",
-        "ks": {
-          "o": { "a": 0, "k": 100 },
-          "r": { "a": 0, "k": 0 },
-          "p": { "a": 0, "k": [250, 250, 0] },
-          "a": { "a": 0, "k": [256, 256, 0] },
-          "s": { "a": 0, "k": [100, 100, 100] }
-        },
-        "ao": 0,
-        "ip": 8,
-        "op": 16,
-        "st": 8,
-        "bm": 0
+      "ao": 0,
+      "ip": 0,
+      "op": 8,
+      "st": 0,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 2,
+      "ty": 2,
+      "nm": "Imagen 1",
+      "refId": "image_1",
+      "ks": {
+        "o": { "a": 0, "k": 100 },
+        "r": { "a": 0, "k": 0 },
+        "p": { "a": 0, "k": [250, 250, 0] },
+        "a": { "a": 0, "k": [256, 256, 0] },
+        "s": { "a": 0, "k": [100, 100, 100] }
       },
-      {
-        "ddd": 0,
-        "ind": 3,
-        "ty": 2,
-        "nm": "Imagen 2",
-        "refId": "image_2",
-        "ks": {
-          "o": { "a": 0, "k": 100 },
-          "r": { "a": 0, "k": 0 },
-          "p": { "a": 0, "k": [250, 250, 0] },
-          "a": { "a": 0, "k": [256, 256, 0] },
-          "s": { "a": 0, "k": [100, 100, 100] }
-        },
-        "ao": 0,
-        "ip": 16,
-        "op": 24,
-        "st": 16,
-        "bm": 0
+      "ao": 0,
+      "ip": 8,
+      "op": 16,
+      "st": 8,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 3,
+      "ty": 2,
+      "nm": "Imagen 2",
+      "refId": "image_2",
+      "ks": {
+        "o": { "a": 0, "k": 100 },
+        "r": { "a": 0, "k": 0 },
+        "p": { "a": 0, "k": [250, 250, 0] },
+        "a": { "a": 0, "k": [256, 256, 0] },
+        "s": { "a": 0, "k": [100, 100, 100] }
       },
-      {
-        "ddd": 0,
-        "ind": 4,
-        "ty": 2,
-        "nm": "Imagen 3",
-        "refId": "image_3",
-        "ks": {
-          "o": { "a": 0, "k": 100 },
-          "r": { "a": 0, "k": 0 },
-          "p": { "a": 0, "k": [250, 250, 0] },
-          "a": { "a": 0, "k": [256, 256, 0] },
-          "s": { "a": 0, "k": [100, 100, 100] }
-        },
-        "ao": 0,
-        "ip": 24,
-        "op": 32,
-        "st": 24,
-        "bm": 0
+      "ao": 0,
+      "ip": 16,
+      "op": 24,
+      "st": 16,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 4,
+      "ty": 2,
+      "nm": "Imagen 3",
+      "refId": "image_3",
+      "ks": {
+        "o": { "a": 0, "k": 100 },
+        "r": { "a": 0, "k": 0 },
+        "p": { "a": 0, "k": [250, 250, 0] },
+        "a": { "a": 0, "k": [256, 256, 0] },
+        "s": { "a": 0, "k": [100, 100, 100] }
       },
-      {
-        "ddd": 0,
-        "ind": 5,
-        "ty": 2,
-        "nm": "Imagen 4",
-        "refId": "image_4",
-        "ks": {
-          "o": { "a": 0, "k": 100 },
-          "r": { "a": 0, "k": 0 },
-          "p": { "a": 0, "k": [250, 250, 0] },
-          "a": { "a": 0, "k": [256, 256, 0] },
-          "s": { "a": 0, "k": [100, 100, 100] }
-        },
-        "ao": 0,
-        "ip": 32,
-        "op": 40,
-        "st": 32,
-        "bm": 0
+      "ao": 0,
+      "ip": 24,
+      "op": 32,
+      "st": 24,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 5,
+      "ty": 2,
+      "nm": "Imagen 4",
+      "refId": "image_4",
+      "ks": {
+        "o": { "a": 0, "k": 100 },
+        "r": { "a": 0, "k": 0 },
+        "p": { "a": 0, "k": [250, 250, 0] },
+        "a": { "a": 0, "k": [256, 256, 0] },
+        "s": { "a": 0, "k": [100, 100, 100] }
       },
-      {
-        "ddd": 0,
-        "ind": 6,
-        "ty": 2,
-        "nm": "Imagen 5",
-        "refId": "image_5",
-        "ks": {
-          "o": { "a": 0, "k": 100 },
-          "r": { "a": 0, "k": 0 },
-          "p": { "a": 0, "k": [250, 250, 0] },
-          "a": { "a": 0, "k": [256, 256, 0] },
-          "s": { "a": 0, "k": [100, 100, 100] }
-        },
-        "ao": 0,
-        "ip": 40,
-        "op": 48,
-        "st": 40,
-        "bm": 0
+      "ao": 0,
+      "ip": 32,
+      "op": 40,
+      "st": 32,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 6,
+      "ty": 2,
+      "nm": "Imagen 5",
+      "refId": "image_5",
+      "ks": {
+        "o": { "a": 0, "k": 100 },
+        "r": { "a": 0, "k": 0 },
+        "p": { "a": 0, "k": [250, 250, 0] },
+        "a": { "a": 0, "k": [256, 256, 0] },
+        "s": { "a": 0, "k": [100, 100, 100] }
       },
-      {
-        "ddd": 0,
-        "ind": 7,
-        "ty": 2,
-        "nm": "Imagen 6",
-        "refId": "image_6",
-        "ks": {
-          "o": { "a": 0, "k": 100 },
-          "r": { "a": 0, "k": 0 },
-          "p": { "a": 0, "k": [250, 250, 0] },
-          "a": { "a": 0, "k": [256, 256, 0] },
-          "s": { "a": 0, "k": [100, 100, 100] }
-        },
-        "ao": 0,
-        "ip": 48,
-        "op": 56,
-        "st": 48,
-        "bm": 0
+      "ao": 0,
+      "ip": 40,
+      "op": 48,
+      "st": 40,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 7,
+      "ty": 2,
+      "nm": "Imagen 6",
+      "refId": "image_6",
+      "ks": {
+        "o": { "a": 0, "k": 100 },
+        "r": { "a": 0, "k": 0 },
+        "p": { "a": 0, "k": [250, 250, 0] },
+        "a": { "a": 0, "k": [256, 256, 0] },
+        "s": { "a": 0, "k": [100, 100, 100] }
       },
-      {
-        "ddd": 0,
-        "ind": 8,
-        "ty": 2,
-        "nm": "Imagen 7",
-        "refId": "image_7",
-        "ks": {
-          "o": { "a": 0, "k": 100 },
-          "r": { "a": 0, "k": 0 },
-          "p": { "a": 0, "k": [250, 250, 0] },
-          "a": { "a": 0, "k": [256, 256, 0] },
-          "s": { "a": 0, "k": [100, 100, 100] }
-        },
-        "ao": 0,
-        "ip": 56,
-        "op": 64,
-        "st": 56,
-        "bm": 0
+      "ao": 0,
+      "ip": 48,
+      "op": 56,
+      "st": 48,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 8,
+      "ty": 2,
+      "nm": "Imagen 7",
+      "refId": "image_7",
+      "ks": {
+        "o": { "a": 0, "k": 100 },
+        "r": { "a": 0, "k": 0 },
+        "p": { "a": 0, "k": [250, 250, 0] },
+        "a": { "a": 0, "k": [256, 256, 0] },
+        "s": { "a": 0, "k": [100, 100, 100] }
       },
-      {
-        "ddd": 0,
-        "ind": 9,
-        "ty": 2,
-        "nm": "Imagen 8",
-        "refId": "image_8",
-        "ks": {
-          "o": { "a": 0, "k": 100 },
-          "r": { "a": 0, "k": 0 },
-          "p": { "a": 0, "k": [250, 250, 0] },
-          "a": { "a": 0, "k": [256, 256, 0] },
-          "s": { "a": 0, "k": [100, 100, 100] }
-        },
-        "ao": 0,
-        "ip": 64,
-        "op": 72,
-        "st": 64,
-        "bm": 0
+      "ao": 0,
+      "ip": 56,
+      "op": 64,
+      "st": 56,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 9,
+      "ty": 2,
+      "nm": "Imagen 8",
+      "refId": "image_8",
+      "ks": {
+        "o": { "a": 0, "k": 100 },
+        "r": { "a": 0, "k": 0 },
+        "p": { "a": 0, "k": [250, 250, 0] },
+        "a": { "a": 0, "k": [256, 256, 0] },
+        "s": { "a": 0, "k": [100, 100, 100] }
       },
-      {
-        "ddd": 0,
-        "ind": 10,
-        "ty": 2,
-        "nm": "Imagen 9",
-        "refId": "image_9",
-        "ks": {
-          "o": { "a": 0, "k": 100 },
-          "r": { "a": 0, "k": 0 },
-          "p": { "a": 0, "k": [250, 250, 0] },
-          "a": { "a": 0, "k": [256, 256, 0] },
-          "s": { "a": 0, "k": [100, 100, 100] }
-        },
-        "ao": 0,
-        "ip": 72,
-        "op": 80,
-        "st": 72,
-        "bm": 0
+      "ao": 0,
+      "ip": 64,
+      "op": 72,
+      "st": 64,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 10,
+      "ty": 2,
+      "nm": "Imagen 9",
+      "refId": "image_9",
+      "ks": {
+        "o": { "a": 0, "k": 100 },
+        "r": { "a": 0, "k": 0 },
+        "p": { "a": 0, "k": [250, 250, 0] },
+        "a": { "a": 0, "k": [256, 256, 0] },
+        "s": { "a": 0, "k": [100, 100, 100] }
       },
-      {
-        "ddd": 0,
-        "ind": 11,
-        "ty": 2,
-        "nm": "Imagen 10",
-        "refId": "image_10",
-        "ks": {
-          "o": { "a": 0, "k": 100 },
-          "r": { "a": 0, "k": 0 },
-          "p": { "a": 0, "k": [250, 250, 0] },
-          "a": { "a": 0, "k": [256, 256, 0] },
-          "s": { "a": 0, "k": [100, 100, 100] }
-        },
-        "ao": 0,
-        "ip": 80,
-        "op": 88,
-        "st": 80,
-        "bm": 0
+      "ao": 0,
+      "ip": 72,
+      "op": 80,
+      "st": 72,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 11,
+      "ty": 2,
+      "nm": "Imagen 10",
+      "refId": "image_10",
+      "ks": {
+        "o": { "a": 0, "k": 100 },
+        "r": { "a": 0, "k": 0 },
+        "p": { "a": 0, "k": [250, 250, 0] },
+        "a": { "a": 0, "k": [256, 256, 0] },
+        "s": { "a": 0, "k": [100, 100, 100] }
       },
-      {
-        "ddd": 0,
-        "ind": 12,
-        "ty": 2,
-        "nm": "Imagen 11",
-        "refId": "image_11",
-        "ks": {
-          "o": { "a": 0, "k": 100 },
-          "r": { "a": 0, "k": 0 },
-          "p": { "a": 0, "k": [250, 250, 0] },
-          "a": { "a": 0, "k": [256, 256, 0] },
-          "s": { "a": 0, "k": [100, 100, 100] }
-        },
-        "ao": 0,
-        "ip": 88,
-        "op": 96,
-        "st": 88,
-        "bm": 0
+      "ao": 0,
+      "ip": 80,
+      "op": 88,
+      "st": 80,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 12,
+      "ty": 2,
+      "nm": "Imagen 11",
+      "refId": "image_11",
+      "ks": {
+        "o": { "a": 0, "k": 100 },
+        "r": { "a": 0, "k": 0 },
+        "p": { "a": 0, "k": [250, 250, 0] },
+        "a": { "a": 0, "k": [256, 256, 0] },
+        "s": { "a": 0, "k": [100, 100, 100] }
       },
-      {
-        "ddd": 0,
-        "ind": 13,
-        "ty": 2,
-        "nm": "Imagen 12",
-        "refId": "image_12",
-        "ks": {
-          "o": { "a": 0, "k": 100 },
-          "r": { "a": 0, "k": 0 },
-          "p": { "a": 0, "k": [250, 250, 0] },
-          "a": { "a": 0, "k": [256, 256, 0] },
-          "s": { "a": 0, "k": [100, 100, 100] }
-        },
-        "ao": 0,
-        "ip": 96,
-        "op": 104,
-        "st": 96,
-        "bm": 0
+      "ao": 0,
+      "ip": 88,
+      "op": 96,
+      "st": 88,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 13,
+      "ty": 2,
+      "nm": "Imagen 12",
+      "refId": "image_12",
+      "ks": {
+        "o": { "a": 0, "k": 100 },
+        "r": { "a": 0, "k": 0 },
+        "p": { "a": 0, "k": [250, 250, 0] },
+        "a": { "a": 0, "k": [256, 256, 0] },
+        "s": { "a": 0, "k": [100, 100, 100] }
       },
-      {
-        "ddd": 0,
-        "ind": 14,
-        "ty": 2,
-        "nm": "Imagen 13",
-        "refId": "image_13",
-        "ks": {
-          "o": { "a": 0, "k": 100 },
-          "r": { "a": 0, "k": 0 },
-          "p": { "a": 0, "k": [250, 250, 0] },
-          "a": { "a": 0, "k": [256, 256, 0] },
-          "s": { "a": 0, "k": [100, 100, 100] }
-        },
-        "ao": 0,
-        "ip": 104,
-        "op": 112,
-        "st": 104,
-        "bm": 0
+      "ao": 0,
+      "ip": 96,
+      "op": 104,
+      "st": 96,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 14,
+      "ty": 2,
+      "nm": "Imagen 13",
+      "refId": "image_13",
+      "ks": {
+        "o": { "a": 0, "k": 100 },
+        "r": { "a": 0, "k": 0 },
+        "p": { "a": 0, "k": [250, 250, 0] },
+        "a": { "a": 0, "k": [256, 256, 0] },
+        "s": { "a": 0, "k": [100, 100, 100] }
       },
-      {
-        "ddd": 0,
-        "ind": 15,
-        "ty": 2,
-        "nm": "Imagen 14",
-        "refId": "image_14",
-        "ks": {
-          "o": { "a": 0, "k": 100 },
-          "r": { "a": 0, "k": 0 },
-          "p": { "a": 0, "k": [250, 250, 0] },
-          "a": { "a": 0, "k": [256, 256, 0] },
-          "s": { "a": 0, "k": [100, 100, 100] }
-        },
-        "ao": 0,
-        "ip": 112,
-        "op": 120,
-        "st": 112,
-        "bm": 0
-      }
-    ]
-  }
+      "ao": 0,
+      "ip": 104,
+      "op": 112,
+      "st": 104,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 15,
+      "ty": 2,
+      "nm": "Imagen 14",
+      "refId": "image_14",
+      "ks": {
+        "o": { "a": 0, "k": 100 },
+        "r": { "a": 0, "k": 0 },
+        "p": { "a": 0, "k": [250, 250, 0] },
+        "a": { "a": 0, "k": [256, 256, 0] },
+        "s": { "a": 0, "k": [100, 100, 100] }
+      },
+      "ao": 0,
+      "ip": 112,
+      "op": 120,
+      "st": 112,
+      "bm": 0
+    }
+  ]
+}
